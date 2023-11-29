@@ -1,11 +1,6 @@
 # operadores
 
-
-
 =begin
-  
-
-
 + adição
 - substração
 * multiplicação
