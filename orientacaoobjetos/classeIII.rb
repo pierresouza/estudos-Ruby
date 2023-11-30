@@ -26,3 +26,9 @@ class Cachorro
          puts 'au au au'
    end
 end
+
+class CachorroGrande
+   def latir
+         puts
+   end
+end
