@@ -10,4 +10,4 @@ Então eu vejo quantas laranjas sobraram
 Cenario: Fazer soma
 Dado eu tenha 10 laranjas 
 Quando eu compro 5 laranjas
-Então eu vejo quantas laranjas eu tenho
+Entao eu vejo quantas laranjas eu tenho

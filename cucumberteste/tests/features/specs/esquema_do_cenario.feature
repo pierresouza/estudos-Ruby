@@ -4,7 +4,7 @@ Funcionalidade: cálculo de multiplicação
 
 Esquema do Cenario: Fazer uma multiplicação
 Quando eu multiplico minhas <laranjas> pelo <valor>.
-Então eu vejo igual <resultado> da multiplicação.
+Entao eu vejo igual <resultado> da multiplicação.
 
 Exemplos:
 

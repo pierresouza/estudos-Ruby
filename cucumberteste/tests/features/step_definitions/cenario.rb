@@ -9,7 +9,7 @@ Quando("eu como {int} laranjas") do |valor2|
  @resultado = @laranjas - @comer
 end
 
-Então("eu vejo quantas laranjas sobraram") do
+Entao("eu vejo quantas laranjas sobraram") do
  puts @resultado
  expect(@resultado).to eq 8
 end
@@ -20,7 +20,7 @@ Quando("eu compro {int} laranjas") do |valor3|
  @compratotal = @laranjas + @comprar
 end
 
-Então("eu vejo quntas laranjas eu tenho.") do 
+Entao('eu vejo quantas laranjas eu tenho') do
   puts @compratotal
   expect(@compratotal).to eq 15
 end
