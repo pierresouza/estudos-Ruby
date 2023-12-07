@@ -1,8 +1,8 @@
 Dado('que eu tenho algumas laranjas') do |table|
-puts table.rows_hash['laranja'].to_i
+puts @laranja = table.rows_hash['laranja'].to_i
 end
 
-Quando('eu corto {int} laranjas') do |valor1|
+Quando("eu corto {int} laranjas") do |valor1|
   @cortar = valor1
   @total = @laranja - @cortar
 end

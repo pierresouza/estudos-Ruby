@@ -11,7 +11,7 @@ Entao eu verifico quantas laranjas sobraram inteiras.
 
 Cenario: Chupar laranjas
 Dado que eu tenho umas laranjas
-|laranjas|
-|10      |
+|laranja|
+|10     |
 Quando eu chupo 2 laranjas
 Entao eu verifico quantas laranjas sobraram.
